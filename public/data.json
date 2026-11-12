@@ -92,7 +92,7 @@
 ], 
       "image": "/assets/churn_app_screen.jpg",
       "pipeline": 
-      "Churn Prediction \u2192 SHAP \u2192 Revenue at Risk \u2192 Retention Targeting \u2192 Causal Inference & A/B Testing \u2192 ROI Analysis \u2192 Streamlit Deployment",
+      "Churn Prediction \u2192 SHAP \u2192 Revenue at Risk \u2192 Retention Targeting \u2192 A/B Testing & Uplift Modeling \u2192 ROI Analysis \u2192 Streamlit Deployment",
       "live_url": "https://roynilakshi91-customer-retention-intelligence-app-1-n5saof.streamlit.app/",
       "code_repo_url": "https://github.com/roynilakshi91/Customer-Retention-Intelligence/blob/main/README.md"
     },
