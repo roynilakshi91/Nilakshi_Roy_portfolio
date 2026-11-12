@@ -34,41 +34,47 @@
     "name": "Nilakshi Roy",
     "title": "Data Scientist",
     "location": "San Jose, CA",
-    "bio": "Data Science professional with 5+ years of experience in advanced analytics, machine learning, and business intelligence. Skilled in Python, SQL, machine learning, experimentation, KPI development, data visualization, and scalable data pipelines. Recently focused on AI-driven workflow automation and Agentic AI applications."
+    "bio": "Data Scientist with 5+ years of experience in advanced analytics, machine learning, experimentation, and AI-driven automation. Skilled in Python, SQL, predictive modeling, causal inference, A/B testing, and scalable data storytelling for business growth and risk mitigation."
   },
   "contactInfo": {
     "email": "roynilakshiwork@gmail.com",
-    "phone": "",
+    "phone": "+1 (669) 294-9152",
     "linkedin": "https://www.linkedin.com/in/nilakshiroy/?isSelfProfile=true",
     "twitter": "",
     "github": "https://github.com/roynilakshi91",
-    "website": "https://roynilakshi91.github.io/NilakshiRoy.portfolio/",
+    "website": "https://roynilakshi91.github.io/Nilakshi_Roy_portfolio/",
     "resume": "./Nilakshi_Roy_Resume_DS.pdf"
   },
   "skills": {
     "languages": [
       "Python",
-      "SQL"
+      "SQL",
+      "Hive"
     ],
     "frameworks": [
       "Scikit-learn",
       "XGBoost",
       "CatBoost",
+      "TF-IDF",
       "PyTorch",
       "LightGBM",
       "PySpark"
     ],
     "databases": [
       "SQL",
-      "Hive"
+      "Hive",
+      "Salesforce"
     ],
     "tools": [
       "Pandas",
       "NumPy",
       "Tableau",
+      "Power BI",
       "Streamlit",
       "GCP",
-      "Git"
+      "Git",
+      "Claude",
+      "MCP"
     ]
   },
   "projects": [
@@ -212,22 +218,20 @@
   "education": [
     {
       "id": "1",
-      "institution": "California State University - East Bay",
-      "degree": "Master\u2019s in Computer Science",
-      "description": "Add your education details, coursework, or relevant academic projects here.",
+      "institution": "California State University, East Bay",
+      "degree": "Master of Science in Computer Science",
+      "description": "Focused on computer science fundamentals, analytics, and applied data systems.",
       "startDate": "02/2020",
       "endDate": "12/2021"
     },
-        {
+    {
       "id": "2",
-      "institution": "Christ University,Bangalore",
-      "degree": "Master\u2019s in Computer Science",
-      "description": "Add your education details, coursework, or relevant academic projects here.",
-      "startDate": "03/2014",
-      "endDate": "08/2016"
+      "institution": "Christ University, Bengaluru",
+      "degree": "Master of Technology in Computer Science",
+      "description": "Built a strong foundation in computer science and analytical problem solving.",
+      "startDate": "08/2014",
+      "endDate": "01/2016"
     }
-
-    
   ],
   "testimonials": [],
   "certifications": [],
